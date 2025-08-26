@@ -24,7 +24,7 @@ Para ejecutar este proyecto en tu computadora:
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/imanxl0000/mi-primera-app-react.git
+   git clone https://github.com/imanxl000/mi-primera-app-react.git
    cd mi-primera-app-react
    ```
 
