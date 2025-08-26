@@ -54,4 +54,4 @@ Para ejecutar este proyecto en tu computadora:
 ---
 
 ## ✅ Estado del proyecto
-Proyecto funcionando correctamente y listo para entregar.
+Proyecto funcionando correctamente.
