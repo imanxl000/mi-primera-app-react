@@ -1,30 +1,57 @@
-# mi-primera-app-react (base para TP)
+# Mi Primera App React
 
-Proyecto base para la materia **Desarrollo Web**. Listo para usar con **Create React App**.
+Este repositorio contiene el **Trabajo Práctico** de la materia **Desarrollo Web**  
+(Tecnicatura Superior en Análisis de Sistemas Informáticos - 2° Año).
 
-## Pasos sugeridos
+---
 
-1. Crear proyecto con CRA:
+## 👨‍🎓 Autor
+- **Nombre:** Imanol Sequeira  
+
+---
+
+## 🚀 Proyecto
+Este proyecto fue creado con **Create React App (CRA)** y modificado para incluir:
+- Uso de **JSX**  
+- Un ejemplo de **estado** con `useState`  
+- Un **evento onClick**  
+- Estilos personalizados en `App.css` e `index.css`  
+
+---
+
+## 📦 Instalación y ejecución
+Para ejecutar este proyecto en tu computadora:
+
+1. Clonar el repositorio:
    ```bash
-   npx create-react-app mi-primera-app-react
+   git clone https://github.com/imanxl0000/mi-primera-app-react.git
    cd mi-primera-app-react
    ```
-2. **Reemplazar la carpeta `src/`** por la `src/` de este ZIP.
-3. Ejecutar:
+
+2. Instalar dependencias:
+   ```bash
+   npm install
+   ```
+
+3. Iniciar servidor de desarrollo:
    ```bash
    npm start
    ```
-4. Subir a GitHub:
-   ```bash
-   git add .
-   git commit -m "feat: TP base React (JSX + estado + evento)"
-   git push
-   ```
+   Se abrirá en 👉 [http://localhost:3000](http://localhost:3000)
 
-## ¿Qué incluye?
-- `App.js` con **JSX**, **estado** (`useState`) y **evento** `onClick`.
-- Estilos simples en `App.css` e `index.css`.
-- `index.js` con `createRoot` de React 18.
+---
 
-¡Éxitos!
-"# mi-primera-app-react" 
+## 📚 Tecnologías utilizadas
+- React (Create React App)  
+- Node.js + npm  
+- JSX, Hooks y eventos  
+
+---
+
+## 📸 Captura de pantalla
+![Vista previa](./screenshot.png)
+
+---
+
+## ✅ Estado del proyecto
+Proyecto funcionando correctamente y listo para entregar.
